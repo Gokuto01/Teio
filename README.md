@@ -22,7 +22,7 @@ Poster :
 [E-Bills_print [Converted].pdf](https://github.com/Gokuto01/Teio/files/6525968/E-Bills_print.Converted.pdf)
 
 Website Link :
-https://goofy-volhard-b10c88.netlify.app/
+https://goofy-volhard-b10c88.netlify.app/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%A2%E0%B9%88%E0%B8%AD.html
 
 Video on YOUTUBE Link :
 https://www.youtube.com/watch?v=qu_sfDewW4w
