@@ -69,7 +69,7 @@ void cal_bill(int n, data *room)
         }
         else
         {
-            room[i].cal_e_bill = ((100000-room[i].pre_em_value)+room[i].now_em_value)*e_unit;
+            room[i].cal_e_bill = ((10000-room[i].pre_em_value)+room[i].now_em_value)*e_unit;
         }
     }
 
@@ -81,7 +81,7 @@ void cal_bill(int n, data *room)
         }
         else
         {
-            room[i].cal_w_bill = ((100000-room[i].pre_wm_value)+room[i].now_wm_value)*w_unit;
+            room[i].cal_w_bill = ((10000-room[i].pre_wm_value)+room[i].now_wm_value)*w_unit;
         }
     }
 
