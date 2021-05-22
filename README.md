@@ -49,4 +49,4 @@ https://www.youtube.com/watch?v=qu_sfDewW4w
 
 .
 
-ขอบคุณครับ
+ขอบคุณครับ/Thanks you
