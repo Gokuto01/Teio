@@ -18,7 +18,7 @@
 
 .
 
-Poster (โปสเตอร์) :
+Poster :
 [E-Bills_print [Converted].pdf](https://github.com/Gokuto01/Teio/files/6525968/E-Bills_print.Converted.pdf)
 
 Website Link :
