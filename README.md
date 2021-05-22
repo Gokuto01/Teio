@@ -8,12 +8,13 @@
 
 ->   โดยโปรแกรมของเรานั้นมีจุดเด่นอยู่ที่การที่สามารถ กรอกห้อง จำนวนเท่าไรก็ได้ไม่จำกัด เช่น กรอก 10 ห้อง หน้าที่ของผู้ใช้ก็มีเพียงแค่ใส่ค่า meters น้ำไฟ  ของแต่ล่ะห้องที่จดมาแค่นั้น.
 
-
+.
 
 วัตถุประสงค์
 1. เพื่ออำนวยความสะดวกให้กับเจ้าของตึกอสังหาริมทรัพย์
 2. เพื่อจัดระเบียบและความมั่นใจให้กับผู้ใช้งาน
 
+.
 
 Poster (โปสเตอร์) :
 [E-Bills_print [Converted].pdf](https://github.com/Gokuto01/Teio/files/6525968/E-Bills_print.Converted.pdf)
@@ -24,6 +25,7 @@ https://goofy-volhard-b10c88.netlify.app/
 Video on YOUTUBE Link :
 https://www.youtube.com/watch?v=qu_sfDewW4w
 
+.
 
 สมาชิก
 
@@ -37,5 +39,6 @@ https://www.youtube.com/watch?v=qu_sfDewW4w
 
 5. นายปิยะเชษฐ์ โตเทศ - 63070109
 
+.
 
 ขอบคุณครับ
